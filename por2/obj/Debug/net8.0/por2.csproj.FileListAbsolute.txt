@@ -1,0 +1,14 @@
+c:\Users\nourh\Desktop\por2\bin\Debug\net8.0\por2.exe
+c:\Users\nourh\Desktop\por2\bin\Debug\net8.0\por2.deps.json
+c:\Users\nourh\Desktop\por2\bin\Debug\net8.0\por2.runtimeconfig.json
+c:\Users\nourh\Desktop\por2\bin\Debug\net8.0\por2.dll
+c:\Users\nourh\Desktop\por2\bin\Debug\net8.0\por2.pdb
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.AssemblyInfoInputs.cache
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.AssemblyInfo.cs
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.csproj.CoreCompileInputs.cache
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.dll
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\refint\por2.dll
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.pdb
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\por2.genruntimeconfig.cache
+c:\Users\nourh\Desktop\por2\obj\Debug\net8.0\ref\por2.dll
